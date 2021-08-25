@@ -2,7 +2,7 @@
 
 ### I'm a Year 2 Computer Science Major from the National University of Singapore, specializing in Information Security
 
-⚡ I like to do CTFs and Competitive Programming in my free time
+⚡ I like to do CTFs and Competitive Programming in my free time!
 
 ### Connect with me:
 
