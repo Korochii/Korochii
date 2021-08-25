@@ -40,12 +40,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: Top Language Used</summary>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Korochii)](https://github.com/Korochii/github-readme-stats)
-
-</details>
 
 
 [instagram]: https://instagram.com/yanlonggg/
