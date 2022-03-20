@@ -33,9 +33,11 @@
 
 ---
 
-### 📈 Github Stats:
+### 📈 Github Stats: ![Profile View Counter](https://komarev.com/ghpvc/?username=Korochii)
 
 <img align="left" alt="Korochii's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Korochii&show_icons=true&hide_border=true&layout=compact&count_private=true" />
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Korochii&theme=blue-green)
 
 
 
