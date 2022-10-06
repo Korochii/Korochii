@@ -1,6 +1,6 @@
 # Hi there, I'm Yan Long - aka Korochii 👋
 
-### I'm a Year 2 Computer Science Major from the National University of Singapore, specializing in Information Security
+### I'm a Year 3 Computer Science Major from the National University of Singapore, specializing in Information Security
 
 ⚡ I like to do CTFs and Competitive Programming in my free time!
 
