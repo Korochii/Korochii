@@ -1,9 +1,5 @@
 # Hi there, I'm Yan Long - aka Korochii 👋
 
-### I'm a Year 4 Computer Science Major from the National University of Singapore, specializing in Information Security
-
-⚡ I like to do CTFs and Competitive Programming in my free time!
-
 ### Connect with me:
 
 [<img align="left" alt="Korochii | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -37,8 +33,4 @@
 [![Korochii's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Korochii)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-[instagram]: https://instagram.com/yanlonggg/
 [linkedin]: https://www.linkedin.com/in/yan-long-terng-38424412a
-[facebook]: https://www.facebook.com/terng.yanlong/
-[discord]: https://discordapp.com/users/Korochi
